@@ -1,5 +1,5 @@
 
-# Rubhus-Cross-Langauge-Clone-Detector
+# Rubhus-Cross-Langauge-Code-Clone-Detector
 
 This repository contains the source code for the paper - "Improving Cross-Language Code CloneDetection via Code Representation Learning and Graph Neural Networks"
 
