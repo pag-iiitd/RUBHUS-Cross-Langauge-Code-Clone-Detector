@@ -86,3 +86,5 @@ If you are using this for academic work, we would be thankful if you could cite 
 ```
 
 ## ✍ Contact 
+
+Please find the authors and their contact details in [AUTHORS.md](https://github.com/pag-iiitd/RUBHUS-Cross-Langauge-Code-Clone-Detector/blob/main/AUTHORS.md)
