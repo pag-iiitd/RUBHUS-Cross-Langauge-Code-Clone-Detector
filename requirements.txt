@@ -1,0 +1,4 @@
+torch_geometric==1.6.3
+torch==1.7.1
+numpy==1.16.2
+arguments==76
