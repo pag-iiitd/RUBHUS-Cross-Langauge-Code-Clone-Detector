@@ -69,7 +69,7 @@ The hyperparameter variables explanation table is as follows :
 
 
 ## ⭐ About the original setup 
-- In our experiments we have trained Rubhus and Baseline Models for x and y epochs for Java Python Dataset and x2 and y2 epochs for C-Java Dataset. 
+- In our experiments we have trained Rubhus and Baseline Models for Java Python Dataset and for C-Java Dataset separately. 
 - The hyperparameters used in the original experiments as well as in this source code are reported in the paper.
 - We have used GTx 2080Ti GPU to run our experiments. The time analysis of the tool also has been reported in the paper.
 
