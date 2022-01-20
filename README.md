@@ -73,16 +73,4 @@ The hyperparameter variables explanation table is as follows :
 - The hyperparameters used in the original experiments as well as in this source code are reported in the paper.
 - We have used GTx 2080Ti GPU to run our experiments. The time analysis of the tool also has been reported in the paper.
 
-## 📑 Citing the project 
-
-If you are using this for academic work, we would be thankful if you could cite the following paper.
-`BIBTEX`
-
-```
-@{,
- author = {Nikita Mehrotra*, Akash Sharma*, Rahul Purandare},
- title = {Improving Cross-Language Code CloneDetection via Code Representation Learning and Graph Neural Networks},
- ....
-}
-```
 
