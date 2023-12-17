@@ -1,6 +1,8 @@
 
 # Rubhus-Cross-Langauge-Code-Clone-Detector
 
+Paper Link - https://www.computer.org/csdl/journal/ts/5555/01/10242168/1QdYTNsq4Xm
+
 This repository contains the source code for the paper - "Improving Cross-Language Code CloneDetection via Code Representation Learning and Graph Neural Networks"
 
 ## 📜 Code Organisation 
@@ -29,8 +31,8 @@ Note - Pytorch and Pytorch-Geometric (+ associated dependencies) versions must b
 The datasets which were used for experiments couldn't be uploaded to the repository due to file size limits. These files are to be downloaded and can be used independently for testing/running the models.
 
 #### 3.1 Extraction of Dataset Files
-- Java-Python Dataset - [Link](https://drive.google.com/file/d/1pOkkNpc9lmMXME8mCUYJRjl_-5GJzB6f/view?usp=sharing)  
-- C-Java Dataset - [Link](https://drive.google.com/file/d/1pOkkNpc9lmMXME8mCUYJRjl_-5GJzB6f/view?usp=sharing)
+- Java-Python Dataset - [Link](https://daniel.perez.sh/research/2019/cross-language-clones/)  
+- C-Java Dataset - [Link](https://www.kaggle.com/datasets/arjoonn/codechef-competitive-programming)
 
 #### 3.2 Setting up Dataset Files
 - Unzip the downloaded files and extract the datasets files.
